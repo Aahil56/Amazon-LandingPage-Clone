@@ -41,9 +41,14 @@ amazon-landing-page-clone/
 - **HTML5**: For structuring the content of the landing page.
 - **CSS3**: For styling the landing page and making it responsive.
 - **Font Awesome**: For the icons used in the navigation bar and other sections.
+- **Render**: For hosting the live website.
+  
 
 
 ## Contributing
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please create an issue or submit a pull request.
+
+## Live Link:
+https://amazon-landingpage.onrender.com/
 
